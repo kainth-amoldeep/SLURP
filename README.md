@@ -12,4 +12,4 @@ SLURP is a stand-alone pipeline to strand reads obtained from long-read sequenci
 **seqkit**: seqkit can be obtained from (https://bioinf.shenwei.me/seqkit/) or ```conda install -c bioconda seqkit```
 
 #### Citation
-If you use or discuss this method, please cite: Merging short and stranded long reads improves transcript assembly. Amoldeep S. Kainth, Gabriela A. Haddad, Johnathon M. Hall, Alexander J. Ruthenburg bioRxiv 2022.12.13.520317; doi: https://doi.org/10.1101/2022.12.13.520317
+If you use or discuss this method, please cite: Merging short and stranded long reads improves transcript assembly. Amoldeep S. Kainth, Gabriela A. Haddad, Johnathon M. Hall, Alexander J. Ruthenburg; bioRxiv 2022.12.13.520317; doi: https://doi.org/10.1101/2022.12.13.520317
