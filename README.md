@@ -1,6 +1,5 @@
 ## SLURP (Stranding Long Unstranded Reads using Primers)
-
-<img align="left" width="400" src="https://user-images.githubusercontent.com/66103719/196799429-bf50379c-4750-4465-926e-b121eed35e81.png">
+<img align="left" width="400" src="https://github.com/kainth-amoldeep/SLURP/assets/66103719/6747b53a-3f45-4f29-9011-6d504da3e378">
 SLURP is a stand-alone pipeline to strand reads obtained from long-read sequencing platforms by probing for library prep primers. The reads are probed for first strand synthesis primer (primer 1; with a TTT 3'-end), strand switching primer (primer 2; with a GGG 3'-end) and the reverse complement of primer 2.
 
 #### Usage
